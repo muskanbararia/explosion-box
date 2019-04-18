@@ -1,2 +1,2 @@
-# Namokar
-An angular app that helps in pratyakhyan for jain community.
+# Explosion Box
+Built from pure CSS. Visit at : https://pensive-lewin-9cd7fe.netlify.com/

@@ -1,0 +1,15 @@
+.box {
+    margin-left: 10px;
+    width: 100px;
+    height: 100px;
+    background: #7C9DD4;
+    box-shadow: 5px 5px 0px #D1D1D1;
+  }
+  #playButton {
+    display: block;
+    font-size: 20px;
+    margin: 20px 10px;
+    font-weight: bold;
+    color: #222;
+    text-decoration: none;
+  }
